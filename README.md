@@ -64,3 +64,4 @@
 - [Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
 - [Echidna](https://github.com/trailofbits/echidna) - Ethereum fuzz testing framework 
 - [Oyente](https://github.com/melonproject/oyente) - An Analysis Tool for Smart Contracts
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
